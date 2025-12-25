@@ -8,3 +8,17 @@ The goal of this assignment is to determine if external factors such as passenge
 
 ## Data Source
 This data comes from the UCI Machine Learning Repository and was collected via a survey on Amazon Mechanical Turk.
+
+## Dataset Description
+The dataset contains different attributes that describes the driver and provides context to their driving situation when surveyed.
+* User Attributes: Gender, Age, Marital Status, Education, Occupation and Income
+* Situational Attributes: Driving Destination, Weather, Temperature, Time and Passenger
+* Coupon Attributes: Type of coupon (Bar, Coffee House, Restaurant, etc) and expiration
+
+## Analysis
+Overall, the acceptance rate for all coupons in the provided data set was about 57% but this figure varied by coupon type.
+
+### Bar Coupon Analysis
+* Humans are creatures of habits. Drivers who visit the bar at least once per month had a 76% acceptance rate showing that they are significantly more likely to accept the coupon compared to those who rarely visit.
+* The rate of drivers who acceptanced coupons were elevated under social conditions. Drivers with adult passengers (friends or partners) significantly more likely to accept a bar coupon in comparison to drivers with children.
+* The data shows that younger drivers (30 and under) and those with lower incomes are more receptive to accepting the coupons.
