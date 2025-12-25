@@ -22,3 +22,7 @@ Overall, the acceptance rate for all coupons in the provided data set was about 
 * Humans are creatures of habits. Drivers who visit the bar at least once per month had a 76% acceptance rate showing that they are significantly more likely to accept the coupon compared to those who rarely visit.
 * The rate of drivers who acceptanced coupons were elevated under social conditions. Drivers with adult passengers (friends or partners) significantly more likely to accept a bar coupon in comparison to drivers with children.
 * The data shows that younger drivers (30 and under) and those with lower incomes are more receptive to accepting the coupons.
+
+### Independent Investigation - Coffee House Analysis
+* I performed a comparitive analysis of the Coffee House coupons to determine if a person's occupation made a difference in the acceptance rate.
+* 
