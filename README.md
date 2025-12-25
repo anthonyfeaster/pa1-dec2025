@@ -25,4 +25,7 @@ Overall, the acceptance rate for all coupons in the provided data set was about 
 
 ### Independent Investigation - Coffee House Analysis
 * I performed a comparitive analysis of the Coffee House coupons to determine if a person's occupation made a difference in the acceptance rate.
-* 
+* Healthcare and Building & Ground Maintenance workers had the highest acceptance rate out of all of the occupations. These industries typically align with shift work and are more proned to many caffeine runs.
+## Recommendations
+* Based on the analysis, future bar coupon campaigns should target adult individuals/drivers during the night and weekend hours when they are more likely to have adult passengers.
+* The next marketing campaign for the Coffee House should target medical facility and industrial parks, possibly during 6AM/6PM time frame to capture the start/end of shifts for the healthcare and maintenance demographic.
